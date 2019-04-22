@@ -11,3 +11,7 @@ In electronics, a signal is :
 ![](https://github.com/Shruti2301/Signal-and-Systems/blob/master/01.gif)
 
 Classifying signals helps in analyzing, processing, and validating circuits.
+
+## What are Systems?
+A System is a physical interconnection of components, or parts, that gathers various amounts of information together.
+
