@@ -15,3 +15,24 @@ Classifying signals helps in analyzing, processing, and validating circuits.
 ## What are Systems?
 A System is a physical interconnection of components, or parts, that gathers various amounts of information together.
 
+![](https://github.com/Shruti2301/Signal-and-Systems/blob/master/system.PNG)
+
+The repository consists of following programs :
+
+1. Generation of Elementary CT and DT Signals
+    - Sine
+    - Unit impulse
+    - Unit step
+    - Unit ramp
+    - Rectangular pulse
+    - Triangular pulse
+    - Signum
+    - Sinc
+    - Real Exponential
+          - Exponential growing
+          - Exponential decaying
+    - Complex exponential
+          - Complex exponential with real part greater than zero
+          - Complex exponential with real part less than zero
+          
+          
