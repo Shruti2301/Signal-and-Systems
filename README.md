@@ -8,4 +8,6 @@ In Layman's language, a signal is an information conveyed from sender to receive
 In electronics, a signal is :
 > A signal is a source of information, generally a physical quantity, which varies with respect to time, space, temperature like any independent variable.
 
+![](https://github.com/Shruti2301/Signal-and-Systems/blob/master/01.gif)
+
 Classifying signals helps in analyzing, processing, and validating circuits.
