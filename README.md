@@ -28,11 +28,11 @@ The repository consists of following programs :
     - Triangular pulse
     - Signum
     - Sinc
-    - Real Exponential
-          - Exponential growing
+    - Real Exponential  
+          - Exponential growing  
           - Exponential decaying
-    - Complex exponential
-          - Complex exponential with real part greater than zero
+    - Complex exponential  
+          - Complex exponential with real part greater than zero  
           - Complex exponential with real part less than zero
           
           
